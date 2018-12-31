@@ -1,4 +1,4 @@
-This loader is based on arshtepe's [css-file-loader](https://github.com/arshtepe/css-file-loader)
+This loader is based on [arshtepe's](https://github.com/arshtepe) [css-file-loader](https://github.com/arshtepe/css-file-loader)
 
 [![npm][npm]][npm-url]
 [![deps][deps]][deps-url]
